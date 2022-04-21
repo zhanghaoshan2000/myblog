@@ -18,4 +18,8 @@
 	}
 </script>
 <style lang="less">
+	#app{
+		height: 100vh;
+			background-color: #E9EBEA;
+	}
 </style>

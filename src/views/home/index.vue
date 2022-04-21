@@ -39,6 +39,8 @@
 		flex-direction: column;
 		flex-shrink: 0;
 		background-color: #E9EBEA;
+		// height: 100vh;
+		box-sizing: border-box;
 	}
 
 	
@@ -57,7 +59,7 @@
 			// flex-wrap: wrap;
 			width: 80%;
 			background-color: red;
-			height: 30rem;
+			height: 10rem;
 			border-radius: 0.5rem;
 			padding: 0.3rem;
 
